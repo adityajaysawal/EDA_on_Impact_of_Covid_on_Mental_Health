@@ -18,3 +18,5 @@ This project explores the impact of COVID-19 on mental health, focusing on mater
   - Women with high EPDS scores have an 81% likelihood of high anxiety, compounding mental health challenges during the pandemic.
 
 This analysis highlights the complex interaction between maternal age, income, and the COVID-19 pandemic's effects on mental health. It provides a valuable perspective for healthcare providers, policymakers, and researchers working to address maternal mental health and socioeconomic disparities during public health crises.
+### Conclusion:
+This project provides an in-depth analysis of how maternal age, income, and education intersect to influence the mental health of pregnant women during the COVID-19 pandemic. The findings underscore the importance of targeted interventions for vulnerable groups, particularly older mothers and low-income families, to mitigate the long-term health impacts of the pandemic. Policymakers, healthcare professionals, and mental health advocates can leverage these insights to design more effective support systems for mothers and newborns, particularly in times of crisis.
